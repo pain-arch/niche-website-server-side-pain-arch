@@ -114,7 +114,7 @@ async function run(){
           const result = await productCollection.deleteOne(query);
   
           console.log("deleting user", id);
-          console.log("delete done", result);
+          console.log("delete done ok", result);
   
           res.json(result);
         })
