@@ -9,3 +9,6 @@
 * This website is mobile responsive
 * it has 10+ products
 * it has its own Database server 
+
+UI Sample
+![Dialz](https://user-images.githubusercontent.com/61962850/148645199-56da5659-31d5-4ca3-81a2-ab2bb76ee6b5.png)
